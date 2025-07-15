@@ -40,11 +40,18 @@ markerFolder: ./Shirak/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Shirak|Shirak]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Shirak.public|Shirak.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Shirak.internal|Shirak.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Shirak.protect|Shirak.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Shirak.private|Shirak.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Shirak.personal|Shirak.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Shirak.secret|Shirak.secret]] 
+
+### #is_/same_as :: [Shirak](/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak.md) 
+
+### #is_/same_as :: [Shirak.public](/_public/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak.public.md) 
+
+### #is_/same_as :: [Shirak.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak.internal.md) 
+
+### #is_/same_as :: [Shirak.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak.protect.md) 
+
+### #is_/same_as :: [Shirak.private](/_private/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak.private.md) 
+
+### #is_/same_as :: [Shirak.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak.personal.md) 
+
+### #is_/same_as :: [Shirak.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak.secret.md)
 

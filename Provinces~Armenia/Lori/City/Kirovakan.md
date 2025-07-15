@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.8,44.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Kirovakan|Kirovakan]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kirovakan.public|Kirovakan.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kirovakan.internal|Kirovakan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kirovakan.protect|Kirovakan.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kirovakan.private|Kirovakan.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kirovakan.personal|Kirovakan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kirovakan.secret|Kirovakan.secret]] 
+
+### #is_/same_as :: [Kirovakan](/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Lori/City/Kirovakan.md) 
+
+### #is_/same_as :: [Kirovakan.public](/_public/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Lori/City/Kirovakan.public.md) 
+
+### #is_/same_as :: [Kirovakan.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Lori/City/Kirovakan.internal.md) 
+
+### #is_/same_as :: [Kirovakan.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Lori/City/Kirovakan.protect.md) 
+
+### #is_/same_as :: [Kirovakan.private](/_private/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Lori/City/Kirovakan.private.md) 
+
+### #is_/same_as :: [Kirovakan.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Lori/City/Kirovakan.personal.md) 
+
+### #is_/same_as :: [Kirovakan.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Lori/City/Kirovakan.secret.md)
+

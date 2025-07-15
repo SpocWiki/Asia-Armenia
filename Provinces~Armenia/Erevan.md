@@ -40,11 +40,18 @@ markerFolder: ./Erevan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Erevan|Erevan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Erevan.public|Erevan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Erevan.internal|Erevan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Erevan.protect|Erevan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Erevan.private|Erevan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Erevan.personal|Erevan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Erevan.secret|Erevan.secret]] 
+
+### #is_/same_as :: [Erevan](/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Erevan.md) 
+
+### #is_/same_as :: [Erevan.public](/_public/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Erevan.public.md) 
+
+### #is_/same_as :: [Erevan.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Erevan.internal.md) 
+
+### #is_/same_as :: [Erevan.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Erevan.protect.md) 
+
+### #is_/same_as :: [Erevan.private](/_private/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Erevan.private.md) 
+
+### #is_/same_as :: [Erevan.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Erevan.personal.md) 
+
+### #is_/same_as :: [Erevan.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Erevan.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Gegharkunik/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Gegharkunik|Gegharkunik]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Gegharkunik.public|Gegharkunik.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Gegharkunik.internal|Gegharkunik.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Gegharkunik.protect|Gegharkunik.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Gegharkunik.private|Gegharkunik.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Gegharkunik.personal|Gegharkunik.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Gegharkunik.secret|Gegharkunik.secret]] 
+
+### #is_/same_as :: [Gegharkunik](/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Gegharkunik.md) 
+
+### #is_/same_as :: [Gegharkunik.public](/_public/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Gegharkunik.public.md) 
+
+### #is_/same_as :: [Gegharkunik.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Gegharkunik.internal.md) 
+
+### #is_/same_as :: [Gegharkunik.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Gegharkunik.protect.md) 
+
+### #is_/same_as :: [Gegharkunik.private](/_private/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Gegharkunik.private.md) 
+
+### #is_/same_as :: [Gegharkunik.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Gegharkunik.personal.md) 
+
+### #is_/same_as :: [Gegharkunik.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Gegharkunik.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.8,43.82] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Alexandropo|Alexandropo]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Alexandropo.public|Alexandropo.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Alexandropo.internal|Alexandropo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Alexandropo.protect|Alexandropo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Alexandropo.private|Alexandropo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Alexandropo.personal|Alexandropo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Alexandropo.secret|Alexandropo.secret]] 
+
+### #is_/same_as :: [Alexandropo](/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak/City/Alexandropo.md) 
+
+### #is_/same_as :: [Alexandropo.public](/_public/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak/City/Alexandropo.public.md) 
+
+### #is_/same_as :: [Alexandropo.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak/City/Alexandropo.internal.md) 
+
+### #is_/same_as :: [Alexandropo.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak/City/Alexandropo.protect.md) 
+
+### #is_/same_as :: [Alexandropo.private](/_private/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak/City/Alexandropo.private.md) 
+
+### #is_/same_as :: [Alexandropo.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak/City/Alexandropo.personal.md) 
+
+### #is_/same_as :: [Alexandropo.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak/City/Alexandropo.secret.md)
+

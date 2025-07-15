@@ -126,10 +126,4 @@ Capital :: [[Armenia/Counties/Erevan/City/Yerevan]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Armenia|Armenia]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~South~West/Armenia.internal|Armenia.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~South~West/Armenia.protect|Armenia.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~South~West/Armenia.private|Armenia.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~South~West/Armenia.personal|Armenia.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~South~West/Armenia.secret|Armenia.secret]] 
+
