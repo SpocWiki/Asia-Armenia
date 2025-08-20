@@ -1,35 +1,36 @@
 ---
 location:
-- 40.18
-- 44.5167
+  - 40.18
+  - 44.5167
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26831
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Armenia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Armenia
-- Arménie
-- أرمينيا
-- 亚美尼亚
-- Армения
-- the Republic of Armenia
-- la República de Armenia
+  - Armenia
+  - Arménie
+  - أرمينيا
+  - 亚美尼亚
+  - Армения
+  - the Republic of Armenia
+  - la República de Armenia
 Languages:
-- hy
+  - hy
 ---
 
 
