@@ -26,15 +26,20 @@ publishDate:
 expiryDate:
 ---
 
-# Erevan
+# [[Erevan]]
+
+## #has_/map 
 
 ```leaflet
 id: Erevan
-zoomFeatures: true 
+zoomFeatures: false 
 minZoom: 2 
 maxZoom: 18
+defaultZoom: 9
 geojsonFolder: ./Erevan/
 markerFolder: ./Erevan/
+coordinates: [[Erevan]] 
+markerFile: [[Erevan]] 
 ```
 
 
