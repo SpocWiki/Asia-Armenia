@@ -40,17 +40,17 @@ markerFolder: ./Armavir/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Armavir](/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Armavir.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Armavir|Armavir]] 
 
-### #is_/same_as :: [Armavir.public](/_public/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Armavir.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Armavir.public|Armavir.public]] 
 
-### #is_/same_as :: [Armavir.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Armavir.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Armavir.internal|Armavir.internal]] 
 
-### #is_/same_as :: [Armavir.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Armavir.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Armavir.protect|Armavir.protect]] 
 
-### #is_/same_as :: [Armavir.private](/_private/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Armavir.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Armavir.private|Armavir.private]] 
 
-### #is_/same_as :: [Armavir.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Armavir.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Armavir.personal|Armavir.personal]] 
 
-### #is_/same_as :: [Armavir.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Armavir.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Armavir.secret|Armavir.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Ararat/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ararat](/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Ararat.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Ararat|Ararat]] 
 
-### #is_/same_as :: [Ararat.public](/_public/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Ararat.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Ararat.public|Ararat.public]] 
 
-### #is_/same_as :: [Ararat.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Ararat.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Ararat.internal|Ararat.internal]] 
 
-### #is_/same_as :: [Ararat.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Ararat.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Ararat.protect|Ararat.protect]] 
 
-### #is_/same_as :: [Ararat.private](/_private/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Ararat.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Ararat.private|Ararat.private]] 
 
-### #is_/same_as :: [Ararat.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Ararat.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Ararat.personal|Ararat.personal]] 
 
-### #is_/same_as :: [Ararat.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Ararat.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Ararat.secret|Ararat.secret]] 
 

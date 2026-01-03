@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alexandropo](/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak/City/Alexandropo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak/City/Alexandropo|Alexandropo]] 
 
-### #is_/same_as :: [Alexandropo.public](/_public/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak/City/Alexandropo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak/City/Alexandropo.public|Alexandropo.public]] 
 
-### #is_/same_as :: [Alexandropo.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak/City/Alexandropo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak/City/Alexandropo.internal|Alexandropo.internal]] 
 
-### #is_/same_as :: [Alexandropo.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak/City/Alexandropo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak/City/Alexandropo.protect|Alexandropo.protect]] 
 
-### #is_/same_as :: [Alexandropo.private](/_private/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak/City/Alexandropo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak/City/Alexandropo.private|Alexandropo.private]] 
 
-### #is_/same_as :: [Alexandropo.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak/City/Alexandropo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak/City/Alexandropo.personal|Alexandropo.personal]] 
 
-### #is_/same_as :: [Alexandropo.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak/City/Alexandropo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak/City/Alexandropo.secret|Alexandropo.secret]] 
 

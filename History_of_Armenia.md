@@ -29,3 +29,20 @@ has_id_wikidata: Q193688
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Armenia) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia/History_of_Armenia|History_of_Armenia]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North~West/Armenia/History_of_Armenia.public|History_of_Armenia.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North~West/Armenia/History_of_Armenia.internal|History_of_Armenia.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North~West/Armenia/History_of_Armenia.protect|History_of_Armenia.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North~West/Armenia/History_of_Armenia.private|History_of_Armenia.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North~West/Armenia/History_of_Armenia.personal|History_of_Armenia.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North~West/Armenia/History_of_Armenia.secret|History_of_Armenia.secret]] 
+

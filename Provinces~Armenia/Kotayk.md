@@ -40,17 +40,17 @@ markerFolder: ./Kotayk/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kotayk](/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Kotayk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Kotayk|Kotayk]] 
 
-### #is_/same_as :: [Kotayk.public](/_public/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Kotayk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Kotayk.public|Kotayk.public]] 
 
-### #is_/same_as :: [Kotayk.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Kotayk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Kotayk.internal|Kotayk.internal]] 
 
-### #is_/same_as :: [Kotayk.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Kotayk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Kotayk.protect|Kotayk.protect]] 
 
-### #is_/same_as :: [Kotayk.private](/_private/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Kotayk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Kotayk.private|Kotayk.private]] 
 
-### #is_/same_as :: [Kotayk.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Kotayk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Kotayk.personal|Kotayk.personal]] 
 
-### #is_/same_as :: [Kotayk.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Kotayk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Kotayk.secret|Kotayk.secret]] 
 

@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kaschischkend=Mikojan](/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Vayots_Dzor/City/Kaschischkend=Mikojan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Vayots_Dzor/City/Kaschischkend=Mikojan|Kaschischkend=Mikojan]] 
 
-### #is_/same_as :: [Kaschischkend=Mikojan.public](/_public/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Vayots_Dzor/City/Kaschischkend=Mikojan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Vayots_Dzor/City/Kaschischkend=Mikojan.public|Kaschischkend=Mikojan.public]] 
 
-### #is_/same_as :: [Kaschischkend=Mikojan.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Vayots_Dzor/City/Kaschischkend=Mikojan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Vayots_Dzor/City/Kaschischkend=Mikojan.internal|Kaschischkend=Mikojan.internal]] 
 
-### #is_/same_as :: [Kaschischkend=Mikojan.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Vayots_Dzor/City/Kaschischkend=Mikojan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Vayots_Dzor/City/Kaschischkend=Mikojan.protect|Kaschischkend=Mikojan.protect]] 
 
-### #is_/same_as :: [Kaschischkend=Mikojan.private](/_private/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Vayots_Dzor/City/Kaschischkend=Mikojan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Vayots_Dzor/City/Kaschischkend=Mikojan.private|Kaschischkend=Mikojan.private]] 
 
-### #is_/same_as :: [Kaschischkend=Mikojan.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Vayots_Dzor/City/Kaschischkend=Mikojan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Vayots_Dzor/City/Kaschischkend=Mikojan.personal|Kaschischkend=Mikojan.personal]] 
 
-### #is_/same_as :: [Kaschischkend=Mikojan.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Vayots_Dzor/City/Kaschischkend=Mikojan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Vayots_Dzor/City/Kaschischkend=Mikojan.secret|Kaschischkend=Mikojan.secret]] 
 

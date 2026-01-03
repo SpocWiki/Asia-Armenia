@@ -40,17 +40,17 @@ markerFolder: ./Tavush/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tavush](/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Tavush.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Tavush|Tavush]] 
 
-### #is_/same_as :: [Tavush.public](/_public/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Tavush.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Tavush.public|Tavush.public]] 
 
-### #is_/same_as :: [Tavush.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Tavush.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Tavush.internal|Tavush.internal]] 
 
-### #is_/same_as :: [Tavush.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Tavush.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Tavush.protect|Tavush.protect]] 
 
-### #is_/same_as :: [Tavush.private](/_private/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Tavush.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Tavush.private|Tavush.private]] 
 
-### #is_/same_as :: [Tavush.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Tavush.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Tavush.personal|Tavush.personal]] 
 
-### #is_/same_as :: [Tavush.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Tavush.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Tavush.secret|Tavush.secret]] 
 

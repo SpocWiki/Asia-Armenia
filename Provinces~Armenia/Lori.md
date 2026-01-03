@@ -40,17 +40,17 @@ markerFolder: ./Lori/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lori](/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Lori.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Lori|Lori]] 
 
-### #is_/same_as :: [Lori.public](/_public/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Lori.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Lori.public|Lori.public]] 
 
-### #is_/same_as :: [Lori.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Lori.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Lori.internal|Lori.internal]] 
 
-### #is_/same_as :: [Lori.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Lori.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Lori.protect|Lori.protect]] 
 
-### #is_/same_as :: [Lori.private](/_private/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Lori.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Lori.private|Lori.private]] 
 
-### #is_/same_as :: [Lori.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Lori.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Lori.personal|Lori.personal]] 
 
-### #is_/same_as :: [Lori.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Lori.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Lori.secret|Lori.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Shirak/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shirak](/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak|Shirak]] 
 
-### #is_/same_as :: [Shirak.public](/_public/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak.public|Shirak.public]] 
 
-### #is_/same_as :: [Shirak.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak.internal|Shirak.internal]] 
 
-### #is_/same_as :: [Shirak.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak.protect|Shirak.protect]] 
 
-### #is_/same_as :: [Shirak.private](/_private/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak.private|Shirak.private]] 
 
-### #is_/same_as :: [Shirak.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak.personal|Shirak.personal]] 
 
-### #is_/same_as :: [Shirak.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Shirak.secret|Shirak.secret]] 
 

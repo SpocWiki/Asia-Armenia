@@ -40,17 +40,17 @@ markerFolder: ./Syunik/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Syunik](/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Syunik.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Syunik|Syunik]] 
 
-### #is_/same_as :: [Syunik.public](/_public/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Syunik.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Syunik.public|Syunik.public]] 
 
-### #is_/same_as :: [Syunik.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Syunik.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Syunik.internal|Syunik.internal]] 
 
-### #is_/same_as :: [Syunik.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Syunik.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Syunik.protect|Syunik.protect]] 
 
-### #is_/same_as :: [Syunik.private](/_private/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Syunik.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Syunik.private|Syunik.private]] 
 
-### #is_/same_as :: [Syunik.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Syunik.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Syunik.personal|Syunik.personal]] 
 
-### #is_/same_as :: [Syunik.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Syunik.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Syunik.secret|Syunik.secret]] 
 

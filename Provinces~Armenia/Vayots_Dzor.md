@@ -40,17 +40,17 @@ markerFolder: ./Vayots_Dzor/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vayots_Dzor](/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Vayots_Dzor.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Vayots_Dzor|Vayots_Dzor]] 
 
-### #is_/same_as :: [Vayots_Dzor.public](/_public/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Vayots_Dzor.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Vayots_Dzor.public|Vayots_Dzor.public]] 
 
-### #is_/same_as :: [Vayots_Dzor.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Vayots_Dzor.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Vayots_Dzor.internal|Vayots_Dzor.internal]] 
 
-### #is_/same_as :: [Vayots_Dzor.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Vayots_Dzor.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Vayots_Dzor.protect|Vayots_Dzor.protect]] 
 
-### #is_/same_as :: [Vayots_Dzor.private](/_private/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Vayots_Dzor.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Vayots_Dzor.private|Vayots_Dzor.private]] 
 
-### #is_/same_as :: [Vayots_Dzor.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Vayots_Dzor.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Vayots_Dzor.personal|Vayots_Dzor.personal]] 
 
-### #is_/same_as :: [Vayots_Dzor.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Vayots_Dzor.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Vayots_Dzor.secret|Vayots_Dzor.secret]] 
 

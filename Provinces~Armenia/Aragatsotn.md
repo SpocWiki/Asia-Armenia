@@ -40,17 +40,17 @@ markerFolder: ./Aragatsotn/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aragatsotn](/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Aragatsotn.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Aragatsotn|Aragatsotn]] 
 
-### #is_/same_as :: [Aragatsotn.public](/_public/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Aragatsotn.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Aragatsotn.public|Aragatsotn.public]] 
 
-### #is_/same_as :: [Aragatsotn.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Aragatsotn.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Aragatsotn.internal|Aragatsotn.internal]] 
 
-### #is_/same_as :: [Aragatsotn.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Aragatsotn.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Aragatsotn.protect|Aragatsotn.protect]] 
 
-### #is_/same_as :: [Aragatsotn.private](/_private/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Aragatsotn.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Aragatsotn.private|Aragatsotn.private]] 
 
-### #is_/same_as :: [Aragatsotn.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Aragatsotn.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Aragatsotn.personal|Aragatsotn.personal]] 
 
-### #is_/same_as :: [Aragatsotn.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Aragatsotn.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North~West/Armenia/Provinces~Armenia/Aragatsotn.secret|Aragatsotn.secret]] 
 
