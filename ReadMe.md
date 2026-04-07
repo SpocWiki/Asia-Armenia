@@ -116,7 +116,7 @@ markerFolder: ./
 [Area-Land::28200] 
 Continent :: [[Asia]]  
 [VehicleCode::ARM] 
-Capital :: [[Armenia/Counties/Erevan/City/Yerevan]] 
+Capital :: [[Armenia/Counties/Erevan/City/Yerevan|Yerevan]] 
 ![[Armenia/Coat_of_arms_of_Armenia.svg|350]]  
 ![[Anthem-Armenia.mp3] 
 ![[Armenia/Flag_of_Armenia.svg|350]]  
