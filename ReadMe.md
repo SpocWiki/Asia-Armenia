@@ -355,7 +355,7 @@ dv_UNTERM_Chinese_Formal: 亚美尼亚共和国
 dv_UNTERM_French_Formal: la République d'Arménie
 dv_UNTERM_Russian: Армения
 dv_UNTERM_Russian_Formal: Республика Армения
-dv_Region_Name: "[[../../Asia|Asia]]"
+dv_Region_Name: "[[../../../Asia|Asia]]"
 dv_Intermediate_Region_Name: "[[Armenia]]"
 dv_Sub-region_Name: "[[Western Asia]]"
 dv_Region: 142
@@ -381,7 +381,7 @@ dv_ISO2: AM
 dv_ISO3: ARM
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Armenia,399|WD~Armenia,399]]"
+    - "[[../../../../../WikiData/WD~Armenia,399|WD~Armenia,399]]"
     - "[[/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia|Armenia]]"
     - "[[/_public/Earth/Continent/Asia/Asia~North~West/Armenia.public|Armenia.public]]"
     - "[[/_internal/Earth/Continent/Asia/Asia~North~West/Armenia.internal|Armenia.internal]]"
@@ -392,17 +392,17 @@ dv_is_:
 dv_has_name_de: Armenien
 dv_Area-Total: 29800
 dv_Area-Land: 28200
-dv_has_place_continent: "[[../../Asia|Asia]]"
+dv_has_place_continent: "[[../../../Asia|Asia]]"
 dv_VehicleCode: ARM
-dv_Capital: "[[Armenia/Counties/Erevan/City/Yerevan|Yerevan]]"
+dv_Capital: "[[Counties/Erevan/City/Yerevan|Yerevan]]"
 dv_Alcohol-l: 11.4
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 44.5167
 dv_has_place_latitude: 40.18
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Armenia
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Armenia,399|WD~Armenia,399]]"
+  - "[[../../../../../WikiData/WD~Armenia,399|WD~Armenia,399]]"
   - "[[/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia|Armenia]]"
   - "[[/_public/Earth/Continent/Asia/Asia~North~West/Armenia.public|Armenia.public]]"
   - "[[/_internal/Earth/Continent/Asia/Asia~North~West/Armenia.internal|Armenia.internal]]"
@@ -799,7 +799,7 @@ history_of_topic: "[[/_Standards/WikiData/WD~history_of_Armenia,193688|WD~histor
 highest_point: "[[/_Standards/WikiData/WD~Mount_Aragats,203568|WD~Mount_Aragats,203568]]"
 different_from: "[[/_Standards/WikiData/WD~Armenia,226316|WD~Armenia,226316]]"
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[/_Standards/WikiData/WD~New_History_of_Yuan,1053256|WD~New_History_of_Yuan,1053256]]"
   - "[[/_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]"
@@ -994,7 +994,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Armenia/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -1014,7 +1014,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Armenia_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1039,9 +1039,9 @@ Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
-![[Armenia/Coat_of_arms_of_Armenia.svg|350]]  
+![[Coat_of_arms_of_Armenia.svg|350]]  
 ![[Anthem-Armenia.mp3] 
-![[Armenia/Flag_of_Armenia.svg|350]]  
+![[Flag_of_Armenia.svg|350]]  
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
 
